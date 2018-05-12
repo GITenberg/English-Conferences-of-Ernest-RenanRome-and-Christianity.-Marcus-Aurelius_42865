@@ -1,0 +1,41 @@
+_repo: English-Conferences-of-Ernest-RenanRome-and-Christianity.-Marcus-Aurelius_42865
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Waters, Clara Erskine Clement
+    alias: Clement, Clara Erskine
+    birthdate: 1834
+    deathdate: 1916
+    gutenberg_agent_id: '4195'
+    url: http://www.gutenberg.org/2009/agents/4195
+covers:
+- cover_type: archival
+  image_path: 42865-h/images/cover-page.jpg
+creator:
+  author:
+    agent_name: Renan, Ernest
+    aliases:
+    - Renan, Joseph Ernest
+    - Renan, Ernestos
+    birthdate: 1823
+    deathdate: 1892
+    gutenberg_agent_id: '4527'
+    url: http://www.gutenberg.org/2009/agents/4527
+    wikipedia: http://en.wikipedia.org/wiki/Ernest_Renan
+description: ''
+gutenberg_issued: '2013-06-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42865'
+  lccn: '33020365'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Marcus Aurelius, Emperor of Rome, 121-180'
+- !lcsh 'Catholic Church'
+- !lcsh 'Church history -- Primitive and early church, ca. 30-600'
+- !lcc 'BR'
+title: 'English Conferences of Ernest Renan: Rome and Christianity. Marcus Aurelius'
+url: http://www.gutenberg.org/ebooks/42865
